@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-membership-content-vue-inertia",
+  "capabilityKey": "planned:cms:membership-content",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-cms-membership-content-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/cms/nextjs/membership-content.md",
+  "presentationPlan": "projects/cms/vue/membership-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
